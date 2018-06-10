@@ -76,7 +76,7 @@ void Calculate()
            }
         }
            cout<<p1<<"student(s) failed the test."<<endl;
-           cout<<p2<<"student(s）got a full score in the test."<<endl;
+           cout<<p2<<"student(s) got a full score in the test."<<endl;
            cout<<p3<<"student(s) passed the test."<<endl;            
 }
 
